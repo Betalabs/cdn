@@ -1,5 +1,5 @@
 {
-    "name": "diegohq/cdn",
+    "name": "betalabs/cdn",
     "description": "Content Delivery Network (CDN) Package for Laravel while original repo is not updated for Laravel 5.6",
     "license": "MIT",
     "keywords": [
